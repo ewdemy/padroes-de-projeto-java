@@ -1,1 +1,1 @@
-# padroes de projeto com java puro
+# padrões de projeto com java puro
